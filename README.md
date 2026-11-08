@@ -9,4 +9,4 @@ In einer autorisierten Codex-Cloud-Umgebung kann [scripts/prepare-workspace.sh](
 
 ## Aktueller Astra-Auftrag
 
-Der [Arbeitsauftrag vom 9. November](ASTRA-ARBEITSAUFTRAG-2026-11-09.md) priorisiert ohne lokalen PC ausführbare VARION-Aufgaben und nennt für jede Funktion echte Abnahmegrenzen. Die [Zugangs- und Quellenkarte](ASTRA-ZUGAENGE-QUELLEN-2026-11-09.md) enthält nur Secret-Namen, keine Werte. Beide Dateien sind eine datierte Übergabe; aktuelle Provider- und Memory-Zustände werden vor Ausführung neu geprüft.
+Der [Arbeitsauftrag vom 9. November](ASTRA-ARBEITSAUFTRAG-2026-11-09.md) priorisiert VARION-Aufgaben, die ein lokaler Astra-Chat ohne Boss-Aufmerksamkeit und sichtbare Maus-/Fensterübernahme ausführen kann, und nennt echte Abnahmegrenzen. Die [Zugangs- und Quellenkarte](ASTRA-ZUGAENGE-QUELLEN-2026-11-09.md) enthält nur Secret-Namen, keine Werte. Beide Dateien sind eine datierte Übergabe; aktuelle Provider- und Memory-Zustände werden vor Ausführung neu geprüft.
