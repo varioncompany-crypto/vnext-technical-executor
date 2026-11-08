@@ -1,5 +1,11 @@
 # Cloud agent instructions
 
+## Current Astra execution order (2026-11-09)
+
+For the user-authorized cross-system work, read `ASTRA-ARBEITSAUFTRAG-2026-11-09.md` and `ASTRA-ZUGAENGE-QUELLEN-2026-11-09.md` before choosing the first task. The user selected Astra for architecture and integration work; honor the model actually selected by the Codex host, and do not call a separate paid model API or silently substitute an older model. These files are a dated task handoff, not a new canonical memory or permission source. Refresh live provider facts before acting.
+
+Finish independent cloud-capable tasks first. Implement needed architecture inside the existing systems, test through the relevant runtime and provider readback, and keep working when another task needs the user's local PC, a real device, or a specific business authorization. Queue those dependencies for a concise later handoff. A synthetic test, PR, deployment, or saved environment setting proves only its own scope. Preserve all existing transaction, identity, secret, idempotency, and kill-switch controls below.
+
 ## Automatic role playbook loading (2026-11-04, file-fallback-v1)
 For a task about service health, functional failures, HTTP/404 errors, disabled controls, incident triage or smallest diagnostic next step (Erreichbarkeit, Funktionsfehler, Ausfall, Stoerung, Fehlerdiagnose), automatically apply `varion-service-watch` before substantive analysis, even when the user does not name a skill. This is an additive role workflow, like the existing explicit OCR/context procedures, not a new scheduler or permission.
 1. Prefer a matching actually offered native skill and read its complete instructions through its actual returned source. Do not invent a native source or treat metadata as the full instructions.
